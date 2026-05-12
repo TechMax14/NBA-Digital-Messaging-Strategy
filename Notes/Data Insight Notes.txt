@@ -1,0 +1,48 @@
+Houston Rockets Data Challenge Insights
+
+Digital Channels:
+- Twitter (1542) leads all digitcal channels but only by 1 engagement followed by FB (1541)
+- The mobile app is last but only by less than 100 users out of 3,000 (1451)
+- the average fan engages with ~2 of the 4 digital channels available
+
+Fan Spending:
+- Grouped the dataset by fans attending 10+ games or less
+- On average both groups purchases roughly 5 items from the retail store
+- We saw a big discrepency when it came to overall spending however,
+	- fans going to 10+ games spent over double on average and in total spending than under 10 game goers
+	- target the loyal fans going to 10+ games!
+- the average fan spent $2,527 on the 22-23 szn
+	- nearly $1,000 less than 10+ gamers spent and $1,000+ more than 10- gamers
+
+Demographics:
+- Top 3 zip codes:
+	- 77461 = Needville, TX, Long Point, TX (south west suberbs of Houston)
+	- 77565 = Kemah, TX, League City, TX, Clear Lake Shores, TX (south east near the gulf)
+	- 77498 = Sugar Land, TX, Houston, TX, Four Corners, TX (same as 77461 but within city limits)
+- the highest count of fans (618) that attended games last szn had an income of $250,000 or more
+	- followed closely by the $100,000-$149,999 range by 8 fans (610)
+	- the discrepency wasn't major with $150,000-$249,999 trailing last at 579
+- the age group where we saw most fans attending games were between 45-54 (526)
+	- followed by 65+ (511)
+	- again no major outliers with 55-64 year olds trailing the pack (475)
+- Males lead females in attendance but only by 46 out of 3000 fans  (Ratio = 1.032)
+	- so there were 1.032 male fans for every female... pretty close!
+- Fans w/ 0 children attended more games (776) than any other amount
+	- however all fans with 0-3 kids range from 734-776) not but discrepency
+- fans with some college experience but no degree attended most games last szn (521)
+	- followed by those with less than HS graduations lol (517)
+	- those w/ HS diplomas came in last at 475
+
+
+Powerpoint:
+- Create a promotional strategy recommending how to allocate 500 messages/pings for the marketing team
+	- Do we want to target the highest spending market
+	- Or do we want to expand where we underperformed?
+- Ideal market for attendence and revenue: fans going to 10+ games, with an income of $250,000+, aged between 45-54, living in the main 3 zip codes
+	- kids, gender, and education don't play a major role
+- Ideal market for advancing smaller markets: female fans going to under 10 games, making $150,000-$249,999, 55-64 yo, with 3 kids, with only a HS diploma and living in the bottom 3 zip codes
+- the best digital channel to reach users will be twitter and facebook
+- I'd allocate more to the first group since the amount spent per szn is much larger
+- But it's important to expand in smaller markets to
+- Hace ^ be my first slide
+- and the second slide be explaining the data
