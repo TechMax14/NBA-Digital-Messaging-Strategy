@@ -1,4 +1,4 @@
-# Houston Rockets Promotional Messaging Strategy — README
+# Houston Rockets Promotional Messaging Strategy
 
 ## Project Overview
 This project analyzes Houston Rockets fan engagement and customer behavior data from the 2022–23 NBA season to develop a targeted promotional messaging strategy for the 2023–24 season opener. The objective was to help the marketing team optimize a limited quota of 500 digital messages by identifying high-value customer segments and recommending efficient allocation strategies.
